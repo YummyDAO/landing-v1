@@ -69,8 +69,8 @@ function App() {
               <div className='section-inner'>
               <h1>Discover real decentralised finance on Maddy Protocol</h1>
               <div class="description">
-                <p>Maddy protocol creates a suites of decentralised financial product</p>
-                <p>Be your own banker, earning yields, take out a self paying loan and you can try our censorship resistant stablecoin.MSD</p>
+                <p>Maddy protocol creates a suite of decentralised financial products</p>
+                <p>Be your own banker, earning yields, take out a self paying loan and you can try out our censorship resistant stablecoin.MSD</p>
               </div>
               <a href="/" target="_blank" rel="noopener noreferrer">go to beta</a>
               <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAzNCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuMzUzNTUgMC42NDY0NDdDMS4xNTgyOSAwLjQ1MTE4NCAwLjg0MTcwOSAwLjQ1MTE4NCAwLjY0NjQ0NyAwLjY0NjQ0N0MwLjQ1MTE4NCAwLjg0MTcwOSAwLjQ1MTE4NCAxLjE1ODI5IDAuNjQ2NDQ3IDEuMzUzNTVMMS4zNTM1NSAwLjY0NjQ0N1pNMzMuMzUzNiAxLjM1MzU1QzMzLjU0ODggMS4xNTgyOSAzMy41NDg4IDAuODQxNzA5IDMzLjM1MzYgMC42NDY0NDdDMzMuMTU4MyAwLjQ1MTE4NCAzMi44NDE3IDAuNDUxMTg0IDMyLjY0NjQgMC42NDY0NDdMMzMuMzUzNiAxLjM1MzU1Wk0wLjY0NjQ0NyAxLjM1MzU1TDE2LjI5MjkgMTdMMTcgMTYuMjkyOUwxLjM1MzU1IDAuNjQ2NDQ3TDAuNjQ2NDQ3IDEuMzUzNTVaTTE3LjcwNzEgMTdMMzMuMzUzNiAxLjM1MzU1TDMyLjY0NjQgMC42NDY0NDdMMTcgMTYuMjkyOUwxNy43MDcxIDE3Wk0xNi4yOTI5IDE3QzE2LjY4MzQgMTcuMzkwNSAxNy4zMTY2IDE3LjM5MDUgMTcuNzA3MSAxN0wxNyAxNi4yOTI5TDE2LjI5MjkgMTdaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" alt="arrow" title="arrow" class="arrow-down"></img>
@@ -163,8 +163,8 @@ function App() {
                     </div>
                     <div class="main-text">
                       <h3>MSD Stablecoin</h3>
-                      <p class="description1">Tailored for DeFi traders, Opium insurance covers smart contract exploits, credit default events, stablecoin custodian insolvency, impermanent loss, price volatility, SAFT risks &amp; off-chain risks.</p>
-                      <p class="description2">Opium Insurance is tradable: you can buy it or sell it as the need arises.</p>
+                      <p class="description1">MSD is the USD-pegged stablecoin used to pay out loans on the Maddy protocol. At any time it can be redeemed against the underlying collateral at face value and can always be redeemed for 1 MSD for 1 USD worth of ETH when the MSD peg falls below $1</p>
+                      <p class="description2"></p>
                     </div>
                   </div>
                   <div class="actions">
@@ -178,8 +178,8 @@ function App() {
                     </div>
                     <div class="main-text">
                       <h3>Maddy Bonds</h3>
-                      <p class="description1">Tailored for DeFi traders, Opium insurance covers smart contract exploits, credit default events, stablecoin custodian insolvency, impermanent loss, price volatility, SAFT risks &amp; off-chain risks.</p>
-                      <p class="description2">Opium Insurance is tradable: you can buy it or sell it as the need arises.</p>
+                      <p class="description1">Maddy Bonds introduces a novel bonding mechanism which allows protocols to bootstrap liquidity at minimal cost and provides better user protection than existing bonding alternatives. The bonding mechanism can be applied to yield-bearing tokens</p>
+                      <p class="description2"></p>
                     </div>
                   </div>
                   <div class="actions">
@@ -193,8 +193,8 @@ function App() {
                     </div>
                     <div class="main-text">
                       <h3>Maddy Self Pay Loan</h3>
-                      <p class="description1">Tailored for DeFi traders, Opium insurance covers smart contract exploits, credit default events, stablecoin custodian insolvency, impermanent loss, price volatility, SAFT risks &amp; off-chain risks.</p>
-                      <p class="description2">Opium Insurance is tradable: you can buy it or sell it as the need arises.</p>
+                      <p class="description1"> Maddy self paying loan protocol is a future-yield-backed synthetic asset protocol. The protocol gives you advances on various yield farming strategies via a synthetic token</p>
+                      <p class="description2"></p>
                     </div>
                   </div>
                   <div class="actions">
