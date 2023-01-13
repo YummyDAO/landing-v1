@@ -26,7 +26,7 @@ function App() {
               </a>
             </div>
             <div className='newHeader__CenterSection-sc-1f19k3t-2 curGpu'>
-              <a href='https://maddy-protocol.gitbook.io/maddy-protocol/' className='text-link'>
+              <a href='https://docs.maddyprotocol.xyz' className='text-link'>
                 Docs
               </a>
               <a href='#' className='text-link'>
@@ -38,12 +38,12 @@ function App() {
               <a href='#' className='text-link'>
                 Earn
               </a>
-              <a href='#' className='text-link'>
+              <a href='https://presale.maddyprotocol.xyz' className='text-link'>
                 Presale
               </a>
             </div>
             <div className='newHeader__RightSection-sc-1f19k3t-3 OtCnG'>
-              <a href='#'>GO TO BETA</a>
+              <a href='https://msd.test.maddyprotocol.xyz/#/'>GO TO BETA</a>
               <div type="button" className='newHeader__ThemeController-sc-1f19k3t-5 fvUBmM'>
                 <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuODgzNzIgMTQuOTk5N0M1Ljc3MjAzIDE0Ljk5OTcgMy43OTA2NiAxNC4xODEyIDIuMzA0NTMgMTIuNjk1MkMwLjgxODQwNyAxMS4yMDkxIDEuODQ2MzVlLTA3IDkuMjI3NTkgMS44NDYzNWUtMDcgNy4xMTU4N0MtMC4wMDAzMTUwNTQgNS42NTkxMiAwLjQwMzA0NCA0LjIzMDc3IDEuMTY1MzEgMi45ODkzNkMxLjkyNzU3IDEuNzQ3OTYgMy4wMTg5MiAwLjc0MjA1OCA0LjMxODIyIDAuMDgzMzEwM0M0LjQ1MTg5IDAuMDE1MTY4MyA0LjYwMjY4IC0wLjAxMjA5MTYgNC43NTE3NSAwLjAwNDkzMzIxQzQuOTAwODIgMC4wMjE5NTgxIDUuMDQxNTcgMC4wODI1MTM1IDUuMTU2NDQgMC4xNzkwNEM1LjI3MTMgMC4yNzU1NjcgNS4zNTUyIDAuNDAzNzg5IDUuMzk3NjQgMC41NDc3MDFDNS40NDAwOCAwLjY5MTYxMiA1LjQzOTIgMC44NDQ4MzYgNS4zOTUwOSAwLjk4ODI0OEM1LjAyNDMzIDIuMTg1ODEgNC45ODc4OSAzLjQ2MTkzIDUuMjg5NzEgNC42Nzg3QzUuNTkxNTMgNS44OTU0NyA2LjIyMDE0IDcuMDA2NjMgNy4xMDc1OSA3Ljg5MjA5QzcuNzQ0NDYgOC41MzM3IDguNTAyMjcgOS4wNDI2IDkuMzM3MTQgOS4zODkzNUMxMC4xNzIgOS43MzYxIDExLjA2NzQgOS45MTM4MSAxMS45NzE0IDkuOTEyMTlDMTIuNjYzIDkuOTEyNzEgMTMuMzUwNyA5LjgwODk4IDE0LjAxMTMgOS42MDQ1QzE0LjE1NDcgOS41NjAzNyAxNC4zMDggOS41NTk0NiAxNC40NTE5IDkuNjAxOUMxNC41OTU4IDkuNjQ0MzMgMTQuNzI0MSA5LjcyODIzIDE0LjgyMDYgOS44NDMxQzE0LjkxNzEgOS45NTc5OCAxNC45Nzc3IDEwLjA5ODggMTQuOTk0NyAxMC4yNDc4QzE1LjAxMTcgMTAuMzk2OSAxNC45ODQ1IDEwLjU0NzcgMTQuOTE2MyAxMC42ODE0QzE0LjI1NzUgMTEuOTgwNyAxMy4yNTE2IDEzLjA3MjEgMTIuMDEwMiAxMy44MzQzQzEwLjc2ODggMTQuNTk2NiA5LjM0MDQ4IDE1IDcuODgzNzIgMTQuOTk5N1pNNC4yOTA5NCAxLjI0Mjg0QzMuMjgzNCAxLjg1NTg3IDIuNDUxMTEgMi43MTg1NCAxLjg3NDU5IDMuNzQ3NEMxLjI5ODA3IDQuNzc2MjYgMC45OTY4MjggNS45MzY1IDEgNy4xMTU4N0MxIDEwLjkxMTYgNC4wODggMTMuOTk5NyA3Ljg4MzcyIDEzLjk5OTdDOS4wNjMxIDE0LjAwMjkgMTAuMjIzMyAxMy43MDE2IDExLjI1MjIgMTMuMTI1MUMxMi4yODExIDEyLjU0ODYgMTMuMTQzOCAxMS43MTYzIDEzLjc1NjggMTAuNzA4N0MxMy4xNzEzIDEwLjg0NDIgMTIuNTcyNCAxMC45MTI1IDExLjk3MTUgMTAuOTEyM0MxMC45MzYxIDEwLjkxNDMgOS45MTA1OCAxMC43MTA4IDguOTU0MzQgMTAuMzEzOEM3Ljk5ODEgOS45MTY3OCA3LjEzMDEgOS4zMzQwMyA2LjQwMDU5IDguNTk5MjhDNS40NTI4OSA3LjY1MzM3IDQuNzYxODcgNi40ODE1NyA0LjM5Mjc1IDUuMTk0NDZDNC4wMjM2MyAzLjkwNzM2IDMuOTg4NTkgMi41NDc0MyA0LjI5MDk0IDEuMjQzMDNWMS4yNDI4NFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt=""></img>
               </div>
@@ -72,7 +72,7 @@ function App() {
                 <p>Maddy protocol creates a suite of decentralised financial products</p>
                 <p>Be your own banker, earning yields, take out a self paying loan and you can try out our censorship resistant stablecoin.MSD</p>
               </div>
-              <a href="/" target="_blank" rel="noopener noreferrer">go to beta</a>
+              <a href="https://msd.test.maddyprotocol.xyz/#/" target="_blank" rel="noopener noreferrer">go to beta</a>
               <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAzNCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEuMzUzNTUgMC42NDY0NDdDMS4xNTgyOSAwLjQ1MTE4NCAwLjg0MTcwOSAwLjQ1MTE4NCAwLjY0NjQ0NyAwLjY0NjQ0N0MwLjQ1MTE4NCAwLjg0MTcwOSAwLjQ1MTE4NCAxLjE1ODI5IDAuNjQ2NDQ3IDEuMzUzNTVMMS4zNTM1NSAwLjY0NjQ0N1pNMzMuMzUzNiAxLjM1MzU1QzMzLjU0ODggMS4xNTgyOSAzMy41NDg4IDAuODQxNzA5IDMzLjM1MzYgMC42NDY0NDdDMzMuMTU4MyAwLjQ1MTE4NCAzMi44NDE3IDAuNDUxMTg0IDMyLjY0NjQgMC42NDY0NDdMMzMuMzUzNiAxLjM1MzU1Wk0wLjY0NjQ0NyAxLjM1MzU1TDE2LjI5MjkgMTdMMTcgMTYuMjkyOUwxLjM1MzU1IDAuNjQ2NDQ3TDAuNjQ2NDQ3IDEuMzUzNTVaTTE3LjcwNzEgMTdMMzMuMzUzNiAxLjM1MzU1TDMyLjY0NjQgMC42NDY0NDdMMTcgMTYuMjkyOUwxNy43MDcxIDE3Wk0xNi4yOTI5IDE3QzE2LjY4MzQgMTcuMzkwNSAxNy4zMTY2IDE3LjM5MDUgMTcuNzA3MSAxN0wxNyAxNi4yOTI5TDE2LjI5MjkgMTdaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K" alt="arrow" title="arrow" class="arrow-down"></img>
               </div>
             </div>
